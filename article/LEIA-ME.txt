@@ -1,0 +1,3 @@
+Coloque aqui o artigo final:
+- paper.pdf  (versao em PDF, formato IEEE)
+- paper.tex  (fonte LaTeX, opcional)
