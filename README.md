@@ -6,7 +6,7 @@ geometrias, vetor diretor, beampattern, beamforming e transmissão direcional.
 
 ## Integrantes
 
-- [Nome do integrante 1]
+- [Lucas de Farias Santos]
 - [Nome do integrante 2]
 - [Nome do integrante 3]
 
