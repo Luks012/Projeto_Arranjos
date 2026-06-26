@@ -6,8 +6,8 @@ geometrias, vetor diretor, beampattern, beamforming e transmissão direcional.
 
 ## Integrantes
 
-- [Lucas de Farias Santos]
-- [Nome do integrante 2]
+- Lucas de Farias Santos
+- Luis Felipe Chaves de Oliveira
 - [Nome do integrante 3]
 
 ## Descrição do projeto
